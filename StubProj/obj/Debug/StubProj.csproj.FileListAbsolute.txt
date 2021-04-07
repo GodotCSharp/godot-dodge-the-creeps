@@ -1,0 +1,6 @@
+D:\workspace\godots\godot-dodge-the-creeps\StubProj\bin\Debug\StubProj.dll
+D:\workspace\godots\godot-dodge-the-creeps\StubProj\bin\Debug\StubProj.pdb
+D:\workspace\godots\godot-dodge-the-creeps\StubProj\obj\Debug\StubProj.csprojAssemblyReference.cache
+D:\workspace\godots\godot-dodge-the-creeps\StubProj\obj\Debug\StubProj.csproj.CoreCompileInputs.cache
+D:\workspace\godots\godot-dodge-the-creeps\StubProj\obj\Debug\StubProj.dll
+D:\workspace\godots\godot-dodge-the-creeps\StubProj\obj\Debug\StubProj.pdb

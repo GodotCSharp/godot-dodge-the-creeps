@@ -1,0 +1,8 @@
+D:\workspace\godots\godot-dodge-the-creeps\.mono\temp\bin\Debug\Dodge the Creeps.dll
+D:\workspace\godots\godot-dodge-the-creeps\.mono\temp\bin\Debug\Dodge the Creeps.pdb
+D:\workspace\godots\godot-dodge-the-creeps\.mono\temp\obj\Debug\Dodge the Creeps.csprojAssemblyReference.cache
+D:\workspace\godots\godot-dodge-the-creeps\.mono\temp\obj\Debug\Dodge the Creeps.AssemblyInfoInputs.cache
+D:\workspace\godots\godot-dodge-the-creeps\.mono\temp\obj\Debug\Dodge the Creeps.AssemblyInfo.cs
+D:\workspace\godots\godot-dodge-the-creeps\.mono\temp\obj\Debug\Dodge the Creeps.csproj.CoreCompileInputs.cache
+D:\workspace\godots\godot-dodge-the-creeps\.mono\temp\obj\Debug\Dodge the Creeps.dll
+D:\workspace\godots\godot-dodge-the-creeps\.mono\temp\obj\Debug\Dodge the Creeps.pdb
